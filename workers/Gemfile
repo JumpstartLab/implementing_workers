@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'resque', "~> 1.25"
+gem 'rake'
+gem 'drink_jobs', :path => "../drink_jobs"
